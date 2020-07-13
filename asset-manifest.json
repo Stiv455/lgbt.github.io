@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/lgbt.github.io/static/css/main.981f7211.chunk.css",
-    "main.js": "/lgbt.github.io/static/js/main.52f85264.chunk.js",
-    "main.js.map": "/lgbt.github.io/static/js/main.52f85264.chunk.js.map",
+    "main.css": "/lgbt.github.io/static/css/main.b57f2a5a.chunk.css",
+    "main.js": "/lgbt.github.io/static/js/main.37d2e514.chunk.js",
+    "main.js.map": "/lgbt.github.io/static/js/main.37d2e514.chunk.js.map",
     "runtime-main.js": "/lgbt.github.io/static/js/runtime-main.17684b73.js",
     "runtime-main.js.map": "/lgbt.github.io/static/js/runtime-main.17684b73.js.map",
-    "static/css/2.86df01db.chunk.css": "/lgbt.github.io/static/css/2.86df01db.chunk.css",
-    "static/js/2.2d7c4e73.chunk.js": "/lgbt.github.io/static/js/2.2d7c4e73.chunk.js",
-    "static/js/2.2d7c4e73.chunk.js.map": "/lgbt.github.io/static/js/2.2d7c4e73.chunk.js.map",
+    "static/css/2.ed87aa75.chunk.css": "/lgbt.github.io/static/css/2.ed87aa75.chunk.css",
+    "static/js/2.5737a572.chunk.js": "/lgbt.github.io/static/js/2.5737a572.chunk.js",
+    "static/js/2.5737a572.chunk.js.map": "/lgbt.github.io/static/js/2.5737a572.chunk.js.map",
     "index.html": "/lgbt.github.io/index.html",
-    "precache-manifest.736fc8166553200b5f6596cf926ac43b.js": "/lgbt.github.io/precache-manifest.736fc8166553200b5f6596cf926ac43b.js",
+    "precache-manifest.856ee0a0700675b6b9a79197256a7b3c.js": "/lgbt.github.io/precache-manifest.856ee0a0700675b6b9a79197256a7b3c.js",
     "service-worker.js": "/lgbt.github.io/service-worker.js",
-    "static/css/2.86df01db.chunk.css.map": "/lgbt.github.io/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/lgbt.github.io/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.2d7c4e73.chunk.js.LICENSE.txt": "/lgbt.github.io/static/js/2.2d7c4e73.chunk.js.LICENSE.txt",
-    "static/media/1.png": "/lgbt.github.io/static/media/1.19e5b630.png",
-    "static/media/persik.png": "/lgbt.github.io/static/media/persik.4e1ec840.png"
+    "static/css/2.ed87aa75.chunk.css.map": "/lgbt.github.io/static/css/2.ed87aa75.chunk.css.map",
+    "static/css/main.b57f2a5a.chunk.css.map": "/lgbt.github.io/static/css/main.b57f2a5a.chunk.css.map",
+    "static/js/2.5737a572.chunk.js.LICENSE.txt": "/lgbt.github.io/static/js/2.5737a572.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.17684b73.js",
-    "static/css/2.86df01db.chunk.css",
-    "static/js/2.2d7c4e73.chunk.js",
-    "static/css/main.981f7211.chunk.css",
-    "static/js/main.52f85264.chunk.js"
+    "static/css/2.ed87aa75.chunk.css",
+    "static/js/2.5737a572.chunk.js",
+    "static/css/main.b57f2a5a.chunk.css",
+    "static/js/main.37d2e514.chunk.js"
   ]
 }
